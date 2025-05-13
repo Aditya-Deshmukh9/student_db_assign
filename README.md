@@ -10,6 +10,8 @@ A React-based dashboard for managing a list of students with Firebase authentica
 
 [Client Repo Link](https://github.com/Aditya-Deshmukh9/student_db_assign)
 
+[Explain UI video](https://drive.google.com/file/d/1441Mw4HwsvLvJbUomDk5RYYhChpWE5zF/view?usp=sharing)
+
 ## Features
 
 - **Student Management**:
