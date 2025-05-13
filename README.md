@@ -6,6 +6,10 @@ A React-based dashboard for managing a list of students with Firebase authentica
 
 ![ Student Dashboard Application](./public/image.png)
 
+[Live Link](https://studentdb-aditya.netlify.app/)
+
+[Client Repo Link](https://github.com/Aditya-Deshmukh9/student_db_assign)
+
 ## Features
 
 - **Student Management**:
